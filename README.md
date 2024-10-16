@@ -52,7 +52,7 @@ At home screen we have a set of advertising images and you can see the place cat
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/service_item.jpg" , width = 200>
 </div> 
 
-### booking screen
+### booking screens
 
 In the reservation interface, you can view your previous reservations and see the reservation details. You can also cancel your current reservation, and after the end of the reservation date, you can evaluate this reservation..
 
@@ -65,7 +65,7 @@ In the reservation interface, you can view your previous reservations and see th
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking_details4.png" , width = 200>
 </div> 
 
-### sell screen
+### account screens
 
 On this screen, you can sell to students using the internet or even without an internet connection. However, in the latter case, an internet connection is required when initially accessing the interface to fetch and store the latest student data. After that, sales can be conducted offline, with all information stored on the device's memory. Once an internet connection is available, the data can be uploaded to the server using the "Upload" button.
 
@@ -74,12 +74,6 @@ On this screen, you can sell to students using the internet or even without an i
   <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/internet_selling_page.png" , width = 800>
 </div> 
 
-### inventory screen
 
-Here the goods are inventoried at the end of the day
-
-<div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/inventory_page.png" , width = 800>
-</div> 
 
 
