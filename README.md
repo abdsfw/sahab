@@ -13,28 +13,34 @@ The application is targeted at Kuwait, allowing users to book tourist spots and 
 
 ### onboarding
 
-The login interface enables the point-of-sale seller to log in to the application, where he previously takes his account from the manager.
+The application includes a structured onboarding flow designed to enhance user experience:
+Splash Screen: The app begins with a splash screen that displays the logo and brand identity, creating a visually appealing first impression while initializing the application.
+Advertisement Page: After the splash screen, users are directed to an advertisement page. This page can display promotional content or important information relevant to the app’s services.
+Language Selection Page: Finally, users are prompted to select their preferred language for the app interface during their first entry into the app. This ensures localization and improves accessibility for users from different linguistic backgrounds.
 
 <div>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/slpash.jpg" , width = 200>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/onboarding1.jpg" , width = 200>
-  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/onboarding1.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/onboaring2.jpg" , width = 200>
+</div> 
+
+### auth screens
+
+in auth there is login , otp , register screens.
+
+<div>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/login.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/otp.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/register.png" , width = 200>
 </div> 
 
 ### home screen
 
-On the home screen, the main section buttons of the application appear, which are **Bills**, **Sales**, and **Inventory**.
+At home screen we have a set of advertising images and you can see the place categories and service categories to choose what you want to book.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/home_page.png" , width = 800>
-</div> 
-
-### bill screen
-
-On the Bills screen, you can request an invoice from a factory or a nearby school and view the details of these invoices.
-
-<div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/bill_page.png" , width = 800>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/home.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/place_category.jpg" , width = 200>
 </div> 
 
 ### order screen
