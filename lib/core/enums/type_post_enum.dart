@@ -1,0 +1,1 @@
+enum TypeToggle { service, place }

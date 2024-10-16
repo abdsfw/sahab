@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894746442184",
+    "project_id": "sahab-3abac",
+    "storage_bucket": "sahab-3abac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894746442184:android:b274a578b457a3f963e8fd",
+        "android_client_info": {
+          "package_name": "com.example.sahab_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDfvzZHt9HdB9UCrv7m_ZxLJHn1vWQeMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

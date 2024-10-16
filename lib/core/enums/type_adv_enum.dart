@@ -1,0 +1,1 @@
+// enum TypeAdv { place, service }
