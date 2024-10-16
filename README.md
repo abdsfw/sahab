@@ -40,15 +40,18 @@ At home screen we have a set of advertising images and you can see the place cat
 
 <div>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/home.jpg" , width = 200>
-  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/place_category.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/place_categories.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/place_items.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/service_category.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/service_item.jpg" , width = 200>
 </div> 
 
-### order screen
+### booking screen
 
-On this screen, you can select a variety of food items and then order them either from a nearby sales point or directly from the factory.
+In the booking interface you can see your previous bookings and see the booking details.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/order_page.png" , width = 800>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking.png" , width = 200>
 </div> 
 
 ### sell screen
