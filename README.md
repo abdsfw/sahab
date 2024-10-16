@@ -71,7 +71,7 @@ At account screen as normal user, you can edit account, contact us and more, and
 
 <div>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/guest_account.jpg" , width = 200>
-  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/vendor_account.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/normal_account.png" , width = 200>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/vendor_account.png" , width = 200>
 </div> 
 
