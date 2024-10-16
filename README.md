@@ -33,6 +33,7 @@ Language Selection Page: Finally, users are prompted to select their preferred l
 ### auth screens
 
 in auth there is login , otp , register screens.
+at first you should enter your phone number then confirm it with otp , finally you should enter your name and email to register.
 
 <div>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/login.jpg" , width = 200>
