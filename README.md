@@ -9,14 +9,16 @@ It is a multi-vendor application for renting tourist spots in Kuwait.
 ## Application description
 The application is targeted at Kuwait, allowing users to book tourist spots and their related services, such as a farm or a desert camping trip (kshat). It also enables registered users to list their own properties for rent. This is a multi-vendor application
 
-## Pictures of main application screen
+## Pictures of main application screens
 
-### login screen
+### onboarding
 
 The login interface enables the point-of-sale seller to log in to the application, where he previously takes his account from the manager.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/login_page.png" , width = 800>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/slpash.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/onboarding1.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/onboarding1.jpg" , width = 200>
 </div> 
 
 ### home screen
