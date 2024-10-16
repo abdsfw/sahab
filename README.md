@@ -67,11 +67,12 @@ In the reservation interface, you can view your previous reservations and see th
 
 ### account screens
 
-On this screen, you can sell to students using the internet or even without an internet connection. However, in the latter case, an internet connection is required when initially accessing the interface to fetch and store the latest student data. After that, sales can be conducted offline, with all information stored on the device's memory. Once an internet connection is available, the data can be uploaded to the server using the "Upload" button.
+At account screen as normal user, you can edit account, contact us and more, and when you are a vendor, you can post your places and services, and see peaple reservations on your place and services.
 
 <div>
-  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/sell_page.png" , width = 800>
-  <img src = "https://raw.githubusercontent.com/abdsfw/point-of-sale/main/assets/image/internet_selling_page.png" , width = 800>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/guest_account.jpg" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/vendor_account.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/vendor_account.png" , width = 200>
 </div> 
 
 
