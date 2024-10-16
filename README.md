@@ -48,10 +48,12 @@ At home screen we have a set of advertising images and you can see the place cat
 
 ### booking screen
 
-In the booking interface you can see your previous bookings and see the booking details.
+In the reservation interface, you can view your previous reservations and see the reservation details. You can also cancel your current reservation, and after the end of the reservation date, you can evaluate this reservation..
 
 <div>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking_details1.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking_details2.png" , width = 200>
 </div> 
 
 ### sell screen
