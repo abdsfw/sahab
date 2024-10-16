@@ -54,6 +54,9 @@ In the reservation interface, you can view your previous reservations and see th
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking.png" , width = 200>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking_details1.png" , width = 200>
   <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking_details2.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking_details3.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/rate_screen.png" , width = 200>
+  <img src = "https://github.com/abdsfw/sahab/blob/main/assets/photo/booking_details4.png" , width = 200>
 </div> 
 
 ### sell screen
