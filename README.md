@@ -1,7 +1,13 @@
 # Sahab
 
+# You can get the application on Google Play via the link https://play.google.com/store/apps/details?id=com.line.sahab
+
 A new Flutter project.
 ###### note: This project is dedicated to Orasys. Therefore, only the interface files will be displayed, and the data and manager files will be removed.
+
+###### note: This project I created in partnership with a colleague in the company.
+
+
 
 ## What is the application?
 It is a multi-vendor application for renting tourist spots in Kuwait.
